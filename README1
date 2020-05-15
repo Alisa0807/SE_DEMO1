@@ -1,1 +1,10 @@
+The system adopts SSH Framework Development
+View layer adopts JSP
+Control layer framework using status2
+Using spring to manage objects（IOC）
+The framework of persistence layer is hibernate
+
+
+web application servers is tomcat
+
 
